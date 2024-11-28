@@ -1,0 +1,13 @@
+.parentContainer{
+    display: flex;
+    border: 1px solid blue;
+    height: 300px;
+    padding: 10px;
+
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+.children{
+    border: 1px solid red;
+    height: 100px;
+}
